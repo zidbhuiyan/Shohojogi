@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "626673280772",
+    "project_id": "shohojogi-88fad",
+    "storage_bucket": "shohojogi-88fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626673280772:android:bdb7c88d56f84fa402d251",
+        "android_client_info": {
+          "package_name": "com.example.shohojogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626673280772-uhubd1dbot75e64bd1hsoht7cvd8b036.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shohojogi",
+            "certificate_hash": "e045142e794d301716152578cd19c659744b65b6"
+          }
+        },
+        {
+          "client_id": "626673280772-ic7p9tes7cadgvic1mtebc7j6gt4u7fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPlsmvqYjt1j2w57GC4DbmUEeAy_w42DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626673280772-ic7p9tes7cadgvic1mtebc7j6gt4u7fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
